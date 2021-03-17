@@ -3,9 +3,9 @@ class script(object):
 
     START_MSG = """ <b>Hi {}
 
-You can call this as an Auto Filter Bot if you like :D
+You can call this as an MM Auto Filter Bot if you like :D
 
-This is Version 2 of Auto Filter Bot
+This is Version 2 of Auto Filter Bot made by @filimsmovie
 
 Bot gives button link to files in connected channels on query !
 
@@ -53,7 +53,7 @@ No need add each filter again!
 Bot will automatically search for your files and give links to that!
 
 
-<b>© @TroJanzHEX</b>"""
+<b>© @filimsmovie</b>"""
 
 
     ABOUT_MSG = """⭕️<b>My Name : Auto Filter Bot V2</b>
